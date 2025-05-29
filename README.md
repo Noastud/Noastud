@@ -1,4 +1,4 @@
-# 👋 Hi, ich bin Noa Canonica
+# 👋 Hi, ich bin Noa 
 
 Ich bin ein junger Entwickler aus der Schweiz 🇨🇭 mit Fokus auf clevere Automatisierungen, algorithmisches Trading und moderne Webtechnologien. Meine Projekte kombinieren technische Tiefe mit pragmatischer Umsetzung – von Bots bis hin zu Web-Backends.
 
