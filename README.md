@@ -39,13 +39,7 @@ Ein Java-basiertes System zur Simulation eines digitalen Parkhauses.
 
 | Projekt             | Beschreibung                            | Technologien           |
 |---------------------|-----------------------------------------|------------------------|
-| IPA-Project         | Webapplikation zur Projektverwaltung     | TypeScript, Supabase  |
-| To-Do-List          | Aufgabenverwaltung im Browser            | JavaScript, HTML, CSS |
-| Snake Game          | Klassisches Snake-Spiel                  | JavaScript, Canvas    |
-| NickelCloud         | Einfaches Dashboard-System               | PHP, HTML, CSS        |
-| Guess the Number    | Terminal-Zahlenspiel                    | Windows Batch         |
-| Even/Odd Checker    | Prüft gerade/ungerade Zahlen             | Windows Batch         |
-| S.S.S (SchiereSteinPapier) | Spiel gegen CPU                 | Python                |
+
 
 ---
 
@@ -58,7 +52,7 @@ HTML · CSS · JavaScript · TypeScript · React · Next.js · TailwindCSS
 Python · PHP · MySQL · Supabase · REST APIs
 
 ### ⚙️ Tools & Design  
-Git · VS Code · Figma · Docker
+Git · VS Code · Docker · Portainer · Kuma
 
 ---
 
@@ -72,9 +66,6 @@ Git · VS Code · Figma · Docker
 
 ## 📫 Kontakt
 
-📧 E-Mail: [noa@example.com](mailto:noa@example.com)  
-💬 Ich freue mich über Feedback, Issues, Stars oder Kollaborationen!
+📧 E-Mail: [noa.canonica@proton.ch](mailto:noa.canonica@proton.ch)  
 
 ---
-
-🛠️ _Dieses Profil wird laufend erweitert – stay tuned!_
